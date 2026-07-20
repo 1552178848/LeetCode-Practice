@@ -14,5 +14,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/1552178848/LeetCode-Practice/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/1552178848/LeetCode-Practice/tree/main/0092-reverse-linked-list-ii/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/1552178848/LeetCode-Practice/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
