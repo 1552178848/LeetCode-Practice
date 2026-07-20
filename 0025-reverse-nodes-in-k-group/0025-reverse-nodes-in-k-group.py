@@ -11,15 +11,14 @@ class Solution:
         while True:
             kth = group_prev
             for _ in range(k):
-                kth = kth.next
+                kth = kth.next 
                 if not kth:
                     return dummy.next
-
+            
             group_next = kth.next
 
-            prev = group_next
             cur = group_prev.next
-
+            prev = group_next
             while cur != group_next:
                 next_node = cur.next
                 cur.next = prev
@@ -30,4 +29,5 @@ class Solution:
             group_prev.next = kth
             group_prev = new_group_prev
         
-        return dummy.next
+
+        
