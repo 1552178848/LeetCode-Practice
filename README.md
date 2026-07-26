@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0001-two-sum/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
@@ -14,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/1552178848/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Linked List
@@ -33,6 +35,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
