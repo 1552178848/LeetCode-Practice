@@ -7,11 +7,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0001-two-sum/) | Easy |
+| [0525-contiguous-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0525-contiguous-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/1552178848/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0525-contiguous-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0525-contiguous-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/1552178848/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0525-contiguous-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0525-contiguous-array/) | Medium |
 <!---LeetCode Topics End-->
