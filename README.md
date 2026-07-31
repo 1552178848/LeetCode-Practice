@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/1552178848/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,4 +65,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 <!---LeetCode Topics End-->
