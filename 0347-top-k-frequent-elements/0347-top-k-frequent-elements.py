@@ -1,8 +1,6 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        count = {}
-        for x in nums:
-            count[x] = count.get(x, 0) + 1
+        count = Counter(nums)
         
         h = []
         for num, freq in count.items():
