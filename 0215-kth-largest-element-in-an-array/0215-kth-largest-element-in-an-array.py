@@ -1,10 +1,15 @@
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
-        h = []
+        def quickselect(arr, target):
+            pivot = random.choice(arr)
+            left = [x for x in arr if x < pivot]
+            mid = [x for x in arr if x == pivot]
+            right = [x for x in arr if x > pivot]
 
-        for num in nums:
-            if len(h) < k:
-                heapq.heappush(h, num)
+            if target < len(left):
+                return quickselect(left, target)
+            elif target < len(left) + len(mid):
+                return pivot
             else:
-                heapq.heappushpop(h, num)
-        return h[0]
+                return quickselect(right, target - len(left) - len(mid))
+        return quickselect(nums, len(nums) - k)
