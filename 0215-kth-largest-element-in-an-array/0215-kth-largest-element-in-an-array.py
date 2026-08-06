@@ -6,6 +6,5 @@ class Solution:
             if len(h) < k:
                 heapq.heappush(h, i)
             else:
-                if i > h[0]:
-                    heapq.heappushpop(h, i)
+                heapq.heappushpop(h, i)
         return h[0]
