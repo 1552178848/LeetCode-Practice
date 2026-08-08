@@ -3,7 +3,7 @@ class Solution:
         ndist_h = []
 
         for x, y in points:
-            ndist = - math.sqrt(x**2 + y**2)
+            ndist = - (x**2 + y**2)
             if len(ndist_h) < k:
                 heapq.heappush(ndist_h, (ndist, x, y))
             else:
