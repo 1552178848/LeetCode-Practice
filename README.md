@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/1552178848/LeetCode-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/1552178848/LeetCode-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/1552178848/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/1552178848/LeetCode-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,16 +91,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/1552178848/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/1552178848/LeetCode-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/1552178848/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/1552178848/LeetCode-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/1552178848/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/1552178848/LeetCode-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +112,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/1552178848/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/1552178848/LeetCode-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/1552178848/LeetCode-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
