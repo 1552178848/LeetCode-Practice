@@ -8,4 +8,4 @@ class Solution:
                 heapq.heappush(ndist_h, (ndist, x, y))
             else:
                 heapq.heappushpop(ndist_h, (ndist, x, y))
-        return [(x, y) for ndist, x, y in ndist_h]
+        return [[x, y] for ndist, x, y in ndist_h]
