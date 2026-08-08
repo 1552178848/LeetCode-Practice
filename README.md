@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/1552178848/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/1552178848/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/1552178848/LeetCode-Practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/1552178848/LeetCode-Practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/1552178848/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/1552178848/LeetCode-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/1552178848/LeetCode-Practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/1552178848/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/1552178848/LeetCode-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
@@ -120,4 +123,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/1552178848/LeetCode-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/1552178848/LeetCode-Practice/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/1552178848/LeetCode-Practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
