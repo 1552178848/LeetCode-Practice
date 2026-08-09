@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/1552178848/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0325-maximum-size-subarray-sum-equals-k/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/1552178848/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0480-sliding-window-median](https://github.com/1552178848/LeetCode-Practice/tree/main/0480-sliding-window-median/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/1552178848/LeetCode-Practice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0325-maximum-size-subarray-sum-equals-k/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/1552178848/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0480-sliding-window-median](https://github.com/1552178848/LeetCode-Practice/tree/main/0480-sliding-window-median/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0480-sliding-window-median](https://github.com/1552178848/LeetCode-Practice/tree/main/0480-sliding-window-median/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
@@ -82,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/1552178848/LeetCode-Practice/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/1552178848/LeetCode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0480-sliding-window-median](https://github.com/1552178848/LeetCode-Practice/tree/main/0480-sliding-window-median/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/1552178848/LeetCode-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Monotonic Queue
@@ -131,4 +135,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/1552178848/LeetCode-Practice/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0480-sliding-window-median](https://github.com/1552178848/LeetCode-Practice/tree/main/0480-sliding-window-median/) | Hard |
 <!---LeetCode Topics End-->
