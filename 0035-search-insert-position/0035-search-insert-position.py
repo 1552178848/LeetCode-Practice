@@ -13,6 +13,6 @@ class Solution:
             else:
                 lo = mid + 1
         if target > nums[hi]:
-            return hi + 1
-        else:
             return lo
+        else:
+            return hi + 1
