@@ -12,4 +12,5 @@ class Solution:
                 hi = mid - 1
             else:
                 lo = mid + 1
+
         return lo
