@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/1552178848/LeetCode-Practice/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/1552178848/LeetCode-Practice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/1552178848/LeetCode-Practice/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/1552178848/LeetCode-Practice/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/1552178848/LeetCode-Practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/1552178848/LeetCode-Practice/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/1552178848/LeetCode-Practice/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
